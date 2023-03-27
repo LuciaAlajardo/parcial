@@ -1,0 +1,18 @@
+.conteine {
+    height: 350px;
+    width: 500px;
+    border: solid mintcream;
+    border-radius: 2px;
+
+}
+.form{
+    display: grid;
+}
+.inpunt{
+    width: 250px;
+    margin: 5px;
+}
+.button{
+    width: 100px;
+    color: teal;
+}
